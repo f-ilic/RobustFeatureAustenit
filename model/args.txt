@@ -1,0 +1,15 @@
+{
+  "num_epochs": 600,
+  "batchsize": 64,
+  "gpus": [
+    0
+  ],
+  "lr": 0.0003,
+  "backbone": "resnet18",
+  "load": null,
+  "head_type": "classic",
+  "num_selected_models": 20,
+  "patch": true,
+  "freeze_backbone": true,
+  "use_scale_augmentation": true
+}
