@@ -1,7 +1,13 @@
-[[ Project Page ]](http://f-ilic.github.io/RobustFeatureAustenit)
-[[ Paper ]](http://http://f-ilic.github.io/RobustFeatureAustenit/ilic21RobustFeatureAustenit.pdf)
 
-**More coming soon** 
+**A study on robust feature representations for grain density estimates in austenitic steel**<br>
+OAGM 2021<br>
+Filip Ilic, Marc Masana, Lea Bogensperger, Harald Ganster, Thomas Pock
+
+---
+
+[[ Project Page ]](http://f-ilic.github.io/RobustFeatureAustenit)
+[[ Paper ]](http://f-ilic.github.io/RobustFeatureAustenit/ilic21RobustFeatureAustenit.pdf)
+
 ## Setup
 Requirements:
 * pytorch
