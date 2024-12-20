@@ -6,7 +6,7 @@ Filip Ilic, Marc Masana, Lea Bogensperger, Harald Ganster, Thomas Pock
 ---
 
 [[ Project Page ]](http://f-ilic.github.io/RobustFeatureAustenit)
-[[ Paper ]](http://f-ilic.github.io/RobustFeatureAustenit/ilic21RobustFeatureAustenit.pdf)
+[[ Paper ]](https://f-ilic.github.io/papers/RobustFeatureAustenit/ilic21RobustFeatureAustenit.pdf)
 
 ## Setup
 Requirements:
